@@ -13,7 +13,7 @@
 </a>
 <a href="https://www.youtube.com/c/TechnoPrefix"> <img
                 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
-                </br>
+                
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
                 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
