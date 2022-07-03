@@ -28,7 +28,7 @@
         <a href="https://codeforces.com/profile/NI-LOY" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="NI-L"
                         height="30" width="30" /></a>
-                          [![Badge](https://cp-logo.vercel.app/codeforces/NI-LOY)]
+                       
 </p>
 
 <h2> Stats </h2>
