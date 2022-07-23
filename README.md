@@ -4,6 +4,10 @@
 
 - 📫 How to reach me **manzurul104@gmail.com**
 
+<h2> Stats </h2>
+
+![Wanna hear a jokes? Let's go......](https://readme-jokes.vercel.app/api)<br>
+
 <h2> Profile Links</h2>
 <a href="https://codeforces.com/profile/NI-LOY" target="_blank"> <img
                 src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
@@ -25,6 +29,7 @@
 </a>
 <a href=""> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
                 src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
@@ -35,6 +40,9 @@
 ![Manzurul's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=niloy104&show_icons=true&count_private=true&theme=great-gatsby)<br>
 
+<h2> Stats </h2>
+
+![Manzurul's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy104&theme=blue-green)<br>
 <h2> Skills </h2>
 
 <h4> Languages </h4>
