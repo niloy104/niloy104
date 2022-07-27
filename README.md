@@ -4,9 +4,6 @@
 
 - 📫 How to reach me **manzurul104@gmail.com**
 
-<h2> Stats </h2>
-
-![Wanna hear a jokes? Let's go......](https://readme-jokes.vercel.app/api)<br>
 
 <h2> Profile Links</h2>
 <a href="https://codeforces.com/profile/NI-LOY" target="_blank"> <img
@@ -62,4 +59,7 @@ stats](https://github-readme-stats.vercel.app/api?username=niloy104&show_icons=t
 <span>
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
+<h2> Stats </h2>
+
+![Wanna hear a jokes?](https://readme-jokes.vercel.app/api)<br>
 </span>
