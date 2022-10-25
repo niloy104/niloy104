@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
                 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href=""> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/channel/UCA3kuwaiKK_UOXcONCCzzMQ"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
