@@ -57,10 +57,4 @@ languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy1
 
 
 <h4> Databases </h4>
-<span>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-    <h2> Stats </h2>
-
-    ![Wanna hear a jokes?](https://readme-jokes.vercel.app/api)<br>
-</span>
