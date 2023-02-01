@@ -1,6 +1,6 @@
 <h1>Md.Manzurul Alam (Niloy)</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=niloy104" alt="niloy104" /> </p>
-- 🌱 I’m currently learning **DSA & trying to solve DSA related Problem on Codeforces.** <br>
+- 🌱 I’m currently learning **DSA & trying to solve DSA related Problem on various OJ.** <br>
 
 - 📫 How to reach me **manzurul104@gmail.com**
 
