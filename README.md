@@ -9,9 +9,7 @@
 <a href="" target="_blank"> <img
         src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
 </a>
-<a href="https://www.hackerrank.com/niloy104" target="_blank"> <img
-        src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
+
 <a href="https://www.codechef.com/users/niloy104" target="_blank"> <img
         src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
 </a>
@@ -24,9 +22,7 @@
 <a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href=""> <img
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
+
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
         src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
