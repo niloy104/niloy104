@@ -6,7 +6,7 @@
 
 
 <h2> Profile Links</h2>
-<a href="https://codeforces.com/profile/NI-LOY" target="_blank"> <img
+<a href="" target="_blank"> <img
         src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
 </a>
 <a href="https://www.hackerrank.com/niloy104" target="_blank"> <img
@@ -18,13 +18,13 @@
 <a href="https://leetcode.com/niloy104/" target="_blank"> <img
         src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </a>
-<a href="https://www.facebook.com/maniloy104/" target="_blank"> <img
+<a href="https://www.facebook.com/nilunebula" target="_blank"> <img
         src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@nilloy104"> <img
+<a href=""> <img
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
