@@ -6,23 +6,17 @@
 
 
 <h2> Profile Links</h2>
-<a href="" target="_blank"> <img
-        src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
-</a>
-<a href="https://www.codechef.com/users/niloy104" target="_blank"> <img
-        src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
-</a>
 <a href="https://leetcode.com/niloy104/" target="_blank"> <img
         src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-</a>
-<a href="https://www.facebook.com/nilunebula" target="_blank"> <img
-        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
         src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
+<a href="https://www.facebook.com/nilunebula" target="_blank"> <img
+        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 
