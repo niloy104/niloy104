@@ -1,6 +1,6 @@
 <h1>Md.Manzurul Alam (Niloy)</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=niloy104" alt="niloy104" /> </p>
-- 🌱 I’m currently learning **DSA & trying to solve DSA related Problem on various OJ.** <br>
+- 🌱 I’m currently explore software engineering stuffs. <br>
 
 - 📫 How to reach me **manzurul104@gmail.com**
 
@@ -12,12 +12,9 @@
 <a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://stackoverflow.com/users/16547760/manzurul" target="_blank"> <img
-        src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
 
 
-<h2> Stats </h2>
+h2> Stats </h2>
 
 ![Manzurul's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=niloy104&show_icons=true&count_private=true&theme=great-gatsby)<br>
