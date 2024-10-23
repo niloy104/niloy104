@@ -15,7 +15,7 @@
 </a>
 
 
-h2> Stats </h2>
+<h2> Stats </h2>
 
 ![Manzurul's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=niloy104&show_icons=true&count_private=true&theme=great-gatsby)<br>
