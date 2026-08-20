@@ -15,9 +15,11 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy104&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=niloy104&theme=tokyonight)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy104&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy104&theme=tokyonight&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy104&theme=tokyonight&layout=compact&hide_border=true)
 
 <br>
 
