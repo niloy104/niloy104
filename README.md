@@ -1,43 +1,69 @@
-<h1>Md.Manzurul Alam (Niloy)</h1>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=niloy104" alt="niloy104" /> </p>
-- 🌱 I’m currently explore software engineering stuffs. <br>
+# Md. Manzurul Alam
 
-- 📫 How to reach me **manzurul104@gmail.com**
+**Backend Engineer** | Go | Microservices | Distributed Systems
 
+---
 
+## About
 
-<h2> Profile Links</h2>
-<a href="https://leetcode.com/niloy104/" target="_blank"> <img
-        src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
-</a>
-<a href="https://www.linkedin.com/in/md-manzurul-alam-573b241b6/" target="_blank"> <img
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Backend engineer focused on building reliable, scalable systems. I specialize in designing microservices architectures, optimizing for performance and reliability, and writing production-grade code.
 
+Currently working with Go, PostgreSQL, and modern backend tooling to solve complex system design problems.
 
-<h2> Stats </h2>
+---
 
-![Manzurul's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=niloy104&show_icons=true&count_private=true&theme=great-gatsby)<br>
+## Skills
 
-<h2> Stats </h2>
+**Languages:** Go, Python, JavaScript, C++, Java  
+**Backend:** Microservices, REST APIs, gRPC, Clean Architecture, SQLC  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Messaging & Events:** Kafka, RabbitMQ, Event-Driven Systems  
+**DevOps:** Docker, Docker Compose, Git, Linux, CI/CD  
+**Architecture:** Hexagonal Design, SOLID Principles, Domain-Driven Design
 
-![Manzurul's Most used
-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy104&theme=blue-green)<br>
-<h2> Skills </h2>
+---
 
-<h4> Languages </h4>
-<span>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+## Projects
 
+### EcomGrid
+**Microservices E-commerce Platform** | Go, gRPC, REST, MySQL, Docker
 
+- Refactored monolithic architecture into 3 independently deployable services
+- Implemented type-safe gRPC contracts for service-to-service communication
+- Built async notification system with event-driven Kafka integration
+- Full Docker Compose setup for local-to-production consistency
 
-</span>
+[View Repository](https://github.com/niloy104/ecomgrid)
 
+### Bank Pro
+**Banking Backend** | Go, PostgreSQL, JWT, Gin
 
+- Designed with reliability as primary concern: atomic transactions for concurrent transfers
+- Implemented JWT-based authentication with role-based access control
+- Used SQLC for type-safe SQL queries, eliminating runtime SQL errors
+- Comprehensive unit test coverage on critical paths (auth, transfers, account access)
 
-<h4> Databases </h4>
+[View Repository](https://github.com/niloy104/bank-pro)
 
+---
+
+## Experience
+
+**Junior Backend Engineer**  
+Oct 2025 – Present
+
+Developing scalable microservices. Optimizing complex queries and transactions. Troubleshooting production issues and delivering reliable solutions.
+
+**Software Engineer Intern**  
+Mar 2025 – Aug 2025
+
+Built backend features using Django and PostgreSQL. Gained hands-on experience with REST API design, database optimization, and production engineering practices.
+
+---
+
+## Connect
+
+- **Email:** [manzurul104@gmail.com](mailto:manzurul104@gmail.com)
+- **LinkedIn:** [linkedin.com/in/niloy104](https://linkedin.com/in/niloy104)
+- **GitHub:** [github.com/niloy104](https://github.com/niloy104)
+- **Location:** Dhaka, Bangladesh
