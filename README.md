@@ -11,8 +11,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&pause=1000&color=06B6D4&width=435&lines=Building+Reliable+Systems;Optimizing+for+Scale;Writing+Production+Code)](https://git.io/typing-svg)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
 </p>
 
 <br>
