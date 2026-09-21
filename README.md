@@ -9,15 +9,11 @@
 
 <br>
 
-<p align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&pause=1000&color=06B6D4&width=435&lines=Building+Reliable+Systems;Optimizing+for+Scale;Writing+Production+Code)](https://git.io/typing-svg)
 
 <br>
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=niloy104&theme=tokyonight)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
 
 
 <br>
