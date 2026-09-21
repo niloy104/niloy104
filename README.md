@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=niloy104&rank_icon=github&show_icons=true&include_all_commits=true&theme=nord)
 </p>
 
 <br>
