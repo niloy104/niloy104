@@ -1,9 +1,11 @@
 ### Hey there! 👋
 
-- 🔭 I'm currently building scalable microservices in **Go**
-- 🌱 I'm learning distributed systems & advanced backend patterns
-- 💼 Backend Engineer | Microservices | System Design
-- 📫 Reach me: [manzurul104@gmail.com](mailto:manzurul104@gmail.com)
+- 🔧 Building backend services and microservices with Go
+- 🏗️ Working with REST, gRPC, PostgreSQL, Redis, and messaging systems
+- 🌱 Learning distributed systems, concurrency, and system design
+- 💼 Backend Engineering | Go | Microservices
+
+
 
 <br>
 
@@ -22,7 +24,7 @@
 <br>
 
 ## Tech Stack
-**Go** · **PostgreSQL** · **Docker** · **gRPC** · **Kafka** · **Redis**
+**Go** · **PostgreSQL** · **Docker** · **gRPC** · **RabbitMQ** . **Kafka** · **Redis**
 
 ## Featured Projects
 - 🏗️ **[EcomGrid](https://github.com/niloy104/ecomgrid)** — Microservices e-commerce platform
